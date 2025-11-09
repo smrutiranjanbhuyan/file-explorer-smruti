@@ -2,7 +2,7 @@
 
 A simple, keyboard-driven file explorer for Linux terminals, built with C++ and ncurses. Browse directories, manage files/folders, and perform operations without a mouse.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
 [![Linux](https://img.shields.io/badge/OS-Linux-green.svg)](https://www.linux.org/)
 
@@ -65,7 +65,7 @@ brew install gcc ncurses cmake
 ## Building
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/file_explorer.git
+   git clone https://github.com/file-explorer-smruti
    cd file_explorer
    ```
 2. Build with CMake:
@@ -161,8 +161,7 @@ file_explorer/
 4. Push (`git push origin feature/xyz`).
 5. Open a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Author
 **Smruti Ranjan Bhuyan** - [GitHub](https://github.com/smrutiranjanbhuyan)
